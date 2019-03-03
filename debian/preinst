@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# we have no rules for this phase yet.
+#
+# To install local use the following comand
+# dpkg-deb --build "$HOME"/prg/bash/twiat .
+#
+# To install in PPA use the folowing comand
+# debuild -k'F5A99A20' -S
+#
+# to push up to lunchpad use following
+# dput ppa:veresl/twiat-http twiat_0.0.1-source.changes
+#

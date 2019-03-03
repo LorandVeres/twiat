@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "helo from twiat."
+sleep 5

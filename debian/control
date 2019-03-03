@@ -1,0 +1,12 @@
+Package: twiat
+Version: 0.0.1
+Architecture: all
+Maintainer: Lorand Verres
+Installed-Size: 1
+Depends: bash
+Section: testing
+Priority: optional
+Homepage: http://askubuntu.com
+Description: This is my first debian package.
+ Guided by Totti Torvalds.
+ In Description new line start with a space.
